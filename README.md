@@ -34,7 +34,8 @@ contact_information
 ![image](https://github.com/Taiseer517/RentIT/assets/127662532/392945ef-254d-41f1-bd9f-f72cd5229db1)
 
 registration
-![image](https://github.com/Taiseer517/RentIT/assets/127662532/898771a1-5cec-477e-9325-07dbf809fb55)
+![image](https://github.com/Taiseer517/RentIT/assets/127662532/40fd52e4-24bd-4fab-99b6-edcd10999360)
+
 
 
 
