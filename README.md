@@ -1,11 +1,11 @@
 # RentIT
 Prototype website with back-end database implemented to store information added
 
-username: taiseerrakiin@gmail.com
-pass: 123456
-
-admin: admin@gmail.com
-pass: 123456
+Group Members:
+Taiseer Rakiin Ahad (1911242)
+MD Asif Intesar (2022430)
+Sayed Mohammad Nayem (1911247)
+Mohammad Azwad Sadat Sarwar (1910902)
 
 
 #Homepage:
