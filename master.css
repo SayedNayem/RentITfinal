@@ -21,6 +21,14 @@
    
 }
 
+.centered-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center; /* Center the contents horizontally */
+}
+
 .intro-left {
     width: 40%;
     float: left;
@@ -198,13 +206,12 @@
     box-sizing: border-box;
     background-color: #eceae4;
     border-radius: 25px;
-    display: inline-block;
     font-size: 17px;
     line-height: 20px;
     text-decoration: none;
     padding: 1em 3em; /* Adjust padding as needed */
-    margin-top: 10px; /* Adjust margin-top as needed */
-    margin-bottom: 10px; /* Adjust margin-bottom as needed */
+    margin: 10px auto; /* Center horizontally and adjust margin as needed */
+    width: 50%; /* Adjust the width as needed */
 }
 
 
@@ -229,13 +236,17 @@
     text-align: center;
 }
 
-.login-container {
+
+.login-idk {
     display: flex;
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
     height: 100vh;
     overflow-y: auto; /* Enable vertical scrolling if content exceeds screen height */
 }
+
+
+
 
 
 .login-input{
@@ -303,7 +314,7 @@
     border-radius: 10px;
   }
   
-.form-group {
+  .form-group {
     margin: 0; /* Resetting the margin to zero */
 }
 
